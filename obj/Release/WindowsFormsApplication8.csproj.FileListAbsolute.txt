@@ -1,0 +1,36 @@
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exiting.resources
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.replace.resources
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Search.resources
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe.config
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.pdb
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.exe
+C:\Users\lolpushok\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.pdb
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe.config
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.exe
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.pdb
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.pdb
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exiting.resources
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.replace.resources
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Search.resources
+C:\Users\ExPress0\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe.config
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.exe
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\Notepad.pdb
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.exe
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\bin\Release\Notepad.pdb
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.exiting.resources
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Form1.resources
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.replace.resources
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.Search.resources
+C:\Users\Diruch\Desktop\WindowsFormsApplication8\WindowsFormsApplication8\obj\Release\WindowsFormsApplication8.csproj.GenerateResource.Cache
